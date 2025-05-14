@@ -1,0 +1,32 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment files
+.env
+.env.local
+
+# TypeScript build output
+/dist/
+/build/
+
+# Logs
+*.log
+*.log.*
+
+# Debugging files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (optional to ignore)
+# package-lock.json
+
+# Optional IDE directories (unnecessary for version control)
+.vscode/
+.idea/
+
+# Other config directories or files
+*.tsbuildinfo
